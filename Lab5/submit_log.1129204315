@@ -1,0 +1,16 @@
+Submitting assignment 5 from p96.ecf.utoronto.ca
+Checking for the expected files in the current directory
+Main.cpp DBentry.h DBentry.cpp TreeNode.cpp TreeNode.h TreeDB.h TreeDB.cpp
+Attempting to build your code.  Make output follows:
+==================================================================
+scl enable devtoolset-4 'g++ -std=c++0x -c Main.cpp'
+------------------------------------------------------------------
+The build appears to have failed.  See the make output for
+more information about the details of the error.
+------------------------------------------------------------------
+This assignment did not compile.
+It will not receive any functionality marks but will still be marked for style.
+Do want to submit anyways? (y/n): n
+
+No files were submitted
+

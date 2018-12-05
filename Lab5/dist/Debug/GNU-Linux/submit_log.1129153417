@@ -1,0 +1,17 @@
+Submitting assignment 5 from p118.ecf.utoronto.ca
+Checking for the expected files in the current directory
+Main.cpp DBentry.h DBentry.cpp TreeNode.cpp TreeNode.h TreeDB.h TreeDB.cpp
+can't find file 'Main.cpp'.
+can't find file 'DBentry.h'.
+can't find file 'DBentry.cpp'.
+can't find file 'TreeNode.cpp'.
+can't find file 'TreeNode.h'.
+can't find file 'TreeDB.h'.
+can't find file 'TreeDB.cpp'.
+
+Error: cannot find all expected files in the current directory.
+Please make sure all necessary files are in the current directory. Also, 
+check that the file names are correct, including capitalization.
+
+No files were submitted
+
